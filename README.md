@@ -4,5 +4,7 @@ Dodano iz Visual Studio Code-a.
 
 Blabla
 
+DINAMO!!!
+
 
 
